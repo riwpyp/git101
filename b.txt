@@ -1,1 +1,1 @@
-This is b.txt
+แก้ไขไฟล์ b.txt บรรทัดแรก ใน branch master ให้มีข้อความต่างกัน
