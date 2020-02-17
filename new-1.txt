@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 แก้ไขบรรทัดแรกของ file new-1.txt ด้วย user1
+=======
+create file new-1.txt by user2
+>>>>>>> 349d0acc92b3e310a3132ae0f2fab991c092c41e
 and save
